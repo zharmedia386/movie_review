@@ -1,11 +1,11 @@
 # Django Fullstack Movie Review Website
 
-A full-stack, responsive movie review website with HTML, Tailwind CSS, JavaScript and Django.
+This project is a full-fledged movie review website built with Django on the backend and a modern frontend powered by HTML, Tailwind CSS, and JavaScript. 
+It caters to both movie enthusiasts and casual viewers by providing a platform for exploration and insightful reviews.
+All movie data and reviews are publicly accessible, allowing users to read reviews and ratings submitted by others
 
-![App Thumbnail](./thumbnail.jpg)
+Technology Stack:
 
-Link to YouTube Video: [🚀Django Full-Stack Responsive Movie Review Website | Django, HTML, TailwindCSS, JavaScript](https://youtu.be/2OFCgAtoVC8)
+- Django
 
-```python
-print("python manage.py runserver😎🚀")
-```
+- Tailwind CSS
